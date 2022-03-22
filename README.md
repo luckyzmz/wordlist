@@ -46,4 +46,6 @@ Wallet_340BTC.dat https://uii.io/wallet_340dat
 Wallet_4000BTC.dat https://uii.io/wallet_4000dat
 Wallet_1.05BTC.dat https://uii.io/wallet_105dat
 
+mnemonic 
+private key
 
